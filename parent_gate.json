@@ -1,0 +1,18 @@
+{
+  "parent": "posefit-09g7-release-v1",
+  "parent_artifact_files_verified": 7123,
+  "parent_artifact_manifest_sha256": "736595ae7bcaaf8b8525333f2ffe61558c99aa4f97f739bd00fd7770693edff8",
+  "parent_manifest_sha256": "a57218ae25547e86ad0e1673eb482ca97bd4e64d49b2f5e19b4c55634b86899e",
+  "engineering_readiness": "B",
+  "strict_metadata_preservation_PASS": false,
+  "exception": {
+    "path": "runs/posefit_09g6_performance_v1/README.md",
+    "content_SHA256_unchanged": true,
+    "origin": "UNKNOWN; user does not know or remember",
+    "timestamp_restored": false
+  },
+  "formal_human_data_collection_ready": false,
+  "review_required": true,
+  "recording_UI_engineering_validation_allowed": true,
+  "automatic_participant_collection": false
+}

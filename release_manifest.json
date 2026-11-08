@@ -1,0 +1,82 @@
+{
+  "release_id": "posefit-experiment-09h1-v1",
+  "python_build": "3.11.9",
+  "python_compatibility": "3.11.x; other computers NOT TESTED",
+  "requirements": {
+    "numpy": "1.26.4",
+    "opencv-contrib-python": "4.11.0.86",
+    "PySide6-Essentials": "6.8.3",
+    "shiboken6": "6.8.3"
+  },
+  "sources": {
+    "launch.py": {
+      "bytes": 2124,
+      "sha256": "be3429980197c97ef17316d17a805ae6be09a0b72b867f9a78a3040f467ede35"
+    },
+    "requirements.txt": {
+      "bytes": 90,
+      "sha256": "150f08ad193ccf680a95c70f578786d06ca4c331e8cd057fbf88cfed1f2a1ac1"
+    },
+    "parent_gate.json": {
+      "bytes": 762,
+      "sha256": "3d8fb73fcd5b94e2264314fe55dcda6ea5790cd1536f4b65aa2845d536ce27f4"
+    },
+    "dependency_manifest.json": {
+      "bytes": 433919,
+      "sha256": "2edc979d442cb591ade00b9e0b176318c85f8b49479055aba2fd288e9184f88c"
+    },
+    "Mo_PoseFit.vbs": {
+      "bytes": 1690,
+      "sha256": "9a81129f4f503eebcf2155e6de6d8b40eaf14f41e6b2c63d2ce9fd277c5176c6"
+    },
+    "Cai_dat.cmd": {
+      "bytes": 669,
+      "sha256": "f434c5a36578cdae99bdc7381ddbba74db40b1781fe54d374d5b0e30da91b37c"
+    },
+    "posefit_recorder/capture.py": {
+      "bytes": 6428,
+      "sha256": "5097d8cb62d2b99760fe75014ff9a03a97dde3de67407a98573b669875be4698"
+    },
+    "posefit_recorder/exporter.py": {
+      "bytes": 8115,
+      "sha256": "3e8f29fa79da5b17fe11be0bd2ce096163dc4502adb23346df55391e928d839c"
+    },
+    "posefit_recorder/fonts.py": {
+      "bytes": 753,
+      "sha256": "8ac0160bb23395b5bd222af296c422ffbd2207a596cd74a30411b9ebed0df557"
+    },
+    "posefit_recorder/options.py": {
+      "bytes": 2262,
+      "sha256": "f6199b02856de79cc9a4b6c740d9ca2e4e844e55f69e34ea0d87da961d5ef0cc"
+    },
+    "posefit_recorder/release.py": {
+      "bytes": 3694,
+      "sha256": "940218d8fe1f45f56caf597fb1a934d8d7500d521bad47a48330b0772b1b9837"
+    },
+    "posefit_recorder/storage.py": {
+      "bytes": 18256,
+      "sha256": "39581a21a2b5982d95d8c14e8ba1b222728bdaa18db7a01942528ccb00b212b0"
+    },
+    "posefit_recorder/window.py": {
+      "bytes": 31041,
+      "sha256": "e8e44023a23df5f845380c9b349916bd227a048aebaf2c47802b935079c56b75"
+    },
+    "posefit_recorder/__init__.py": {
+      "bytes": 81,
+      "sha256": "7e8d014ea3efdac097577b497c39a72f86519eaaee2f33793d3777a69d3418e7"
+    },
+    "posefit_recorder/style.qss": {
+      "bytes": 1384,
+      "sha256": "58f59b9c4737907631e6ae511431939c4d99a8a54460805e087d4bb5f1277df3"
+    }
+  },
+  "providers": [
+    "bundled",
+    "installed"
+  ],
+  "default_provider": "bundled",
+  "inference_enabled": false,
+  "formal_collection_ready": false,
+  "build_revision": 5,
+  "change": "Vietnamese permission/disk recovery survives unavailable technical log; native error text restricted to known messages; no capture/codec/timing/ZIP changes"
+}

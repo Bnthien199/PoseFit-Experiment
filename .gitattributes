@@ -1,0 +1,2 @@
+# Preserve exact bytes of the hash-bound release, including UTF-16 VBS.
+* -text

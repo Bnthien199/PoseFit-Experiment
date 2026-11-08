@@ -1,0 +1,105 @@
+{
+  "schema_version": 1,
+  "files": {
+    ".gitattributes": {
+      "bytes": 80,
+      "sha256": "b81663be17743bcfc652d80258f007ad752eb029c139ce9e39e500b4f0476386"
+    },
+    ".gitignore": {
+      "bytes": 768,
+      "sha256": "d487fcde2cc4c5253f13a0a7f0e72c9a5bb8e72f2dedbd3014dc9711235e9fd0"
+    },
+    "Cai_dat.cmd": {
+      "bytes": 669,
+      "sha256": "f434c5a36578cdae99bdc7381ddbba74db40b1781fe54d374d5b0e30da91b37c"
+    },
+    "INSTALLATION_CHECKLIST_VI.md": {
+      "bytes": 2293,
+      "sha256": "ba9c1ad158cc646ebaef46ac8a7be269c38c7581e65fd3c4d219423a60b2a174"
+    },
+    "Mo_PoseFit.vbs": {
+      "bytes": 1690,
+      "sha256": "9a81129f4f503eebcf2155e6de6d8b40eaf14f41e6b2c63d2ce9fd277c5176c6"
+    },
+    "PILOT_ACCEPTANCE_CHECKLIST_VI.md": {
+      "bytes": 2009,
+      "sha256": "046e0c883b78fbd8a54929c7aa642e456563921e4a567958748626a2ffe0d357"
+    },
+    "README.md": {
+      "bytes": 10037,
+      "sha256": "6afc549942fa01c514c5fc138af4ca585d1b6922ea3ecd40d2166f6703818622"
+    },
+    "THIRD_PARTY_NOTICES.md": {
+      "bytes": 1041,
+      "sha256": "9afe93bce399f0c05e5cea1e32d317f31495b4e9814f95890863a2065d21cca9"
+    },
+    "USER_GUIDE_VI.md": {
+      "bytes": 2889,
+      "sha256": "8be95af579b0c3a29b0bd231517b439b655f2966f84a868f1c3d550e40a65b56"
+    },
+    "dependency_manifest.json": {
+      "bytes": 433919,
+      "sha256": "2edc979d442cb591ade00b9e0b176318c85f8b49479055aba2fd288e9184f88c"
+    },
+    "launch.py": {
+      "bytes": 2124,
+      "sha256": "be3429980197c97ef17316d17a805ae6be09a0b72b867f9a78a3040f467ede35"
+    },
+    "parent_gate.json": {
+      "bytes": 762,
+      "sha256": "3d8fb73fcd5b94e2264314fe55dcda6ea5790cd1536f4b65aa2845d536ce27f4"
+    },
+    "posefit_recorder/__init__.py": {
+      "bytes": 81,
+      "sha256": "7e8d014ea3efdac097577b497c39a72f86519eaaee2f33793d3777a69d3418e7"
+    },
+    "posefit_recorder/capture.py": {
+      "bytes": 6428,
+      "sha256": "5097d8cb62d2b99760fe75014ff9a03a97dde3de67407a98573b669875be4698"
+    },
+    "posefit_recorder/exporter.py": {
+      "bytes": 8115,
+      "sha256": "3e8f29fa79da5b17fe11be0bd2ce096163dc4502adb23346df55391e928d839c"
+    },
+    "posefit_recorder/fonts.py": {
+      "bytes": 753,
+      "sha256": "8ac0160bb23395b5bd222af296c422ffbd2207a596cd74a30411b9ebed0df557"
+    },
+    "posefit_recorder/options.py": {
+      "bytes": 2262,
+      "sha256": "f6199b02856de79cc9a4b6c740d9ca2e4e844e55f69e34ea0d87da961d5ef0cc"
+    },
+    "posefit_recorder/release.py": {
+      "bytes": 3694,
+      "sha256": "940218d8fe1f45f56caf597fb1a934d8d7500d521bad47a48330b0772b1b9837"
+    },
+    "posefit_recorder/storage.py": {
+      "bytes": 18256,
+      "sha256": "39581a21a2b5982d95d8c14e8ba1b222728bdaa18db7a01942528ccb00b212b0"
+    },
+    "posefit_recorder/style.qss": {
+      "bytes": 1384,
+      "sha256": "58f59b9c4737907631e6ae511431939c4d99a8a54460805e087d4bb5f1277df3"
+    },
+    "posefit_recorder/trusted.py": {
+      "bytes": 84,
+      "sha256": "213f9f20bea11a72a27eabc6c35de40e21e9e842f3851d98ce4f228ba667bfaf"
+    },
+    "posefit_recorder/window.py": {
+      "bytes": 31041,
+      "sha256": "e8e44023a23df5f845380c9b349916bd227a048aebaf2c47802b935079c56b75"
+    },
+    "release_manifest.json": {
+      "bytes": 2881,
+      "sha256": "c3e8c5ee1ec50061466f05b6ce2e239856e88786208bf4321fee08af13fa338f"
+    },
+    "requirements.txt": {
+      "bytes": 90,
+      "sha256": "150f08ad193ccf680a95c70f578786d06ca4c331e8cd057fbf88cfed1f2a1ac1"
+    }
+  },
+  "scope": "Public source distribution from verified 09H2; local integrity hashes, not a signature",
+  "runtime_changes": 0,
+  "formal_human_collection_approved": false,
+  "second_physical_machine_tested": false
+}

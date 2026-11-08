@@ -1,0 +1,18 @@
+QWidget { font-family: "Segoe UI"; font-size: 14px; color: #16324c; background: #f1f5f9; }
+QMainWindow, QDialog { background: #f1f5f9; }
+QLabel#title { font-size: 27px; font-weight: 700; color: #123b55; }
+QLabel#notice { background: #fff4d6; color: #795200; padding: 7px 11px; border-radius: 7px; }
+QLabel#instruction { background: #e0edf6; border-radius: 8px; padding: 10px; }
+QLabel#status { padding: 7px; color: #166534; }
+QLabel#status[error="true"] { color: #b42318; background: #fff0ed; }
+QLabel#timer { font-size: 24px; font-weight: 600; padding: 0 10px; }
+QPushButton { background: white; border: 1px solid #b5c9d8; border-radius: 7px; padding: 10px 12px; }
+QPushButton:hover { border-color: #087e8b; background: #e7f5f4; }
+QPushButton:checked { background: #087e8b; color: white; border-color: #087e8b; }
+QPushButton#activity { font-size: 19px; font-weight: 600; }
+QPushButton#record { background: #087e8b; color: white; font-size: 18px; font-weight: 700; }
+QPushButton:disabled, QPushButton#record:disabled { background: #e3e9ee; color: #8a9eaf; border-color: #d6e0e8; }
+QComboBox, QLineEdit, QSpinBox { background: white; border: 1px solid #b5c9d8; padding: 8px; border-radius: 5px; min-height: 20px; }
+QListWidget { background: white; border: 1px solid #d6e0e8; border-radius: 7px; }
+QListWidget::item { padding: 7px; }
+QCheckBox::indicator { width: 20px; height: 20px; }
